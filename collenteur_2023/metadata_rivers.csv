@@ -1,0 +1,29 @@
+,River,Station,FOEN_ID,ID2,lat,lon,Operator,Link,Notes,geometry,Distance
+Buechberg,,,,,,,,,,POINT EMPTY,
+Crêtelongue,Rhone,Sion,2011.0,,46.21903,7.35791,FOEN,https://www.hydrodaten.admin.ch/en/2011.html,,POINT (7.35791 46.21903),10789.072730761398
+Davos,Dischmabach,"Davos, Kriegsmatte",2327.0,,46.77543,9.87731,FOEN,https://www.hydrodaten.admin.ch/en/2327.html,,POINT (9.87731 46.77543),861.8233740383964
+Ermensee,Aabach,"Hitzkirch, Richensee ",2416.0,,47.22011,8.24902,FOEN,https://www.hydrodaten.admin.ch/en/2416.html,,POINT (8.24902 47.22011),870.3175786046369
+Gossau,,,,,,,,,,POINT EMPTY,
+Hasle,Emme,"Emmenmatt, nur Hauptstation",2070.0,,46.95456,7.74877,FOEN,https://www.hydrodaten.admin.ch/de/2070.html,,POINT (7.74877 46.95456),9956.733233402103
+Kestenholz,,,,,,,,,,POINT EMPTY,
+Lamone,Agno,stazione principale,2629.0,,46.00317,8.91172,FOEN,https://www.hydrodaten.admin.ch/en/2629.html,,POINT (8.91172 46.00317),4365.66693916395
+Maienfeld,Rhein,Domat/Ems,2602.0,,46.83775,9.4562,FOEN,https://www.hydrodaten.admin.ch/en/2602.html,,POINT (9.4562 46.83775),18447.276587530057
+Marthalen,Mederbach,"Niederwiesen, Marthalen",,CHZH-002,47.61668999,8.62870972,Kanton ZH,https://www.zh.ch/de/umwelt-tiere/wasser-gewaesser/messdaten/abfluss-wasserstand.html,,POINT (8.62870972 47.61668999),1084.6661933550351
+Massongex,Rhone,Branson,2024.0,,46.12567,7.09131,FOEN,https://www.hydrodaten.admin.ch/en/2024.html,,POINT (7.09131 46.12567),15924.736090227081
+Niederbipp,,,,,,,,,,POINT EMPTY,
+Oberglatt,Glatt,Rümlang,,CHZH-018,47.45451593,8.537554501,Kanton Zürich,https://www.zh.ch/de/umwelt-tiere/wasser-gewaesser/messdaten/abfluss-wasserstand.html#-355244684,,POINT (8.537554501 47.45451593),4342.361524479566
+Oberwichtrach,Aare,Thun,2030.0,,46.76462,7.6118,FOEN,https://www.hydrodaten.admin.ch/en/2030.html,,POINT (7.6118 46.76462),8298.615182999038
+Poschiavo,Canale industriale,Le Prese,2079.0,,46.29554,10.07964,FOEN,https://www.hydrodaten.admin.ch/en/2079.html,,POINT (10.07964 46.29554),349.0079376157322
+Samedan B,Inn ,"Samedan, Fussweg",,CHGR-011,,,Kanton GB,,No data available,POINT EMPTY,
+Schaffhausen,Rhein,"Neuhausen, Flurlingerbrücke",2288.0,,47.68232,8.62586,FOEN,https://www.hydrodaten.admin.ch/en/2288.html,,POINT (8.62586 47.68232),3471.110044992363
+Sennwald,Rhein,"Oberriet, Blatten",2041.0,,47.30689,9.57073,FOEN,https://www.hydrodaten.admin.ch/en/2041.html,,POINT (9.57073 47.30689),8966.60805813575
+Soral,,,,,,,,,,POINT EMPTY,
+Trub,Trueb,"Trubschachen, Trub",,CHBE-900,46.92869387,7.855427701,Kanton BE,https://www.wada.sites.be.ch/geoportal/hydromn/oberflaechengewaesser/stationsblatt/A106.pdf,,POINT (7.855427701 46.92869387),2117.610674449751
+Utzenstorf,Grüttbach,Obergerlafingen,,CHSO-007,47.16151826,7.585145358,Kanton SO,,,POINT (7.585145358 47.16151826),4303.766196182801
+Visp,Rhone,Brig,2346.0,,46.31746,7.97533,FOEN,https://www.hydrodaten.admin.ch/en/2346.html,,POINT (7.97533 46.31746),8419.594879281864
+Volketswil,,,,,,,,,,POINT EMPTY,
+Vétroz,Rhone,Sion,2011.0,,46.21903,7.35791,FOEN,https://www.hydrodaten.admin.ch/en/2011.html,,POINT (7.35791 46.21903),5793.119786660798
+Wila,Töss,"Rämismühle, Zell",,CHZH-007,47.44300525,8.81470035,Kanton Zürich,https://www.zh.ch/de/umwelt-tiere/wasser-gewaesser/messdaten/abfluss-wasserstand.html#-355244683,,POINT (8.81470035 47.44300525),4390.242213528339
+Wilchingen,,,,,,,,,,POINT EMPTY,
+Worben,Sagibach,"Worben, Hinterfeld",,CHBE-041,47.10211715,7.287796733,Kanton BE,https://www.wada.sites.be.ch/geoportal/hydromn/oberflaechengewaesser/stationsblatt/A047.pdf,,POINT (7.287796733 47.10211715),1323.2720473838954
+Zürich,Sihl,"Zürich, Sihlhälzli",2176.0,,47.36774,8.52619,FOEN,https://www.hydrodaten.admin.ch/en/2176.html,,POINT (8.52619 47.36774),633.4639042641903
