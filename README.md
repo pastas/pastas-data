@@ -24,3 +24,9 @@ The following datasets are currently available:
 - `"collenteur_2021"`: timesteps of irregular ([Collenteur, 2021](https://doi.org/10.1111/gwat.13111))
 
 See the individual subfolders for more information on each dataset.
+
+## Notes for adding new datasets
+
+- each dataset is contained in a folder with the name of that dataset
+- each csv-file has to have a a format where the first row is the header and the first column the index of a Pandas DataFrame
+- each dataset should preferably be related to a scientific publication
