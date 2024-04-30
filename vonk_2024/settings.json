@@ -1,0 +1,18 @@
+{
+    "heads.csv": {
+        "index_col": 0,
+        "parse_dates": true,
+        "header": [
+            0,
+            1,
+            2
+        ],
+        "dtype": "float"
+    },
+    "stresses.csv": {
+        "index_col": 0,
+        "parse_dates": true,
+        "header": 0,
+        "dtype": "float"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "heads.csv": {
+        "index_col": 0,
+        "parse_dates": true,
+        "header": 0,
+        "dtype": "float"
+    },
+    "precipitation.csv": {
+        "index_col": 0,
+        "parse_dates": true,
+        "header": 0,
+        "dtype": "float"
+    },
+    "evaporation.csv": {
+        "index_col": 0,
+        "parse_dates": true,
+        "header": 0,
+        "dtype": "float"
+    },
+    "metadata.csv": {
+        "index_col": 0,
+        "header": 0,
+        "dtype": "object"
+    }
+}
