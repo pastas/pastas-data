@@ -22,6 +22,7 @@ The following datasets are currently available:
 - `"vonk_2024"`: synthetic head data from a MODFLOW model ([Vonk et al., 2024](https://doi.org/10.5281/zenodo.10640098))
 - `"collenteur_2023"`: heads and stresses from Switzerland ([Collenteur et al., 2023](https://doi.org/10.1016/j.jhydrol.2023.130120))
 - `"collenteur_2021"`: timesteps of irregular ([Collenteur, 2021](https://doi.org/10.1111/gwat.13111))
+- `"spek_2017"`: heads and stresses from The Netherlands ([van der Spek, 2021](https://doi.org/10.1002/2016WR019704))
 
 See the individual subfolders for more information on each dataset.
 
