@@ -22,7 +22,7 @@ The following datasets are currently available:
 * `"collenteur_2023"`: heads and stresses from Switzerland ([Collenteur et al., 2023](https://doi.org/10.1016/j.jhydrol.2023.130120))
 * `"collenteur_2021"`: timesteps of irregular ([Collenteur, 2021](https://doi.org/10.1111/gwat.13111))
 * `"collenteur_2019"`: head, rain and evaporation time series from example 1 in ([Collenteur et al. 2019](https://doi.org/10.1111/gwat.12925))
-* `"spek_2017"`: heads and stresses from The Netherlands ([van der Spek, 2021](https://doi.org/10.1002/2016WR019704))
+* `"spek_2017"`: heads and stresses from The Netherlands ([van der Spek, 2017](https://doi.org/10.1002/2016WR019704))
 
 See the individual subfolders for more information on each dataset.
 
