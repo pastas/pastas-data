@@ -6,7 +6,7 @@ This repository contains several datasets to serve as examples for Pastas. Each 
 
 The datasets may be obtained through Pastas (version 1.5 or higher) using the following code:
 
-```
+```python
 import pastas as ps
 
 data = ps.load_dataset("collenteur_2023")  # returns a dictionary
