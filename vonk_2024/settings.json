@@ -14,5 +14,11 @@
         "parse_dates": true,
         "header": 0,
         "dtype": "float"
+    },
+    "heads_4mmevents.csv": {
+        "index_col": 0,
+        "parse_dates": true,
+        "header": 0,
+        "dtype": "float"
     }
 }
