@@ -4,5 +4,9 @@
         "parse_dates": true,
         "header": null,
         "dtype": "int"
+    },
+    "wagna.csv": {
+        "index_col": 0,
+        "parse_dates": true
     }
 }
