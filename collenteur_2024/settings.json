@@ -1,0 +1,26 @@
+{
+    "Germany.csv": {
+        "index_col": 0,
+        "parse_dates": true,
+        "header": 0,
+        "dtype": "float"
+    },
+    "Netherlands.csv": {
+        "index_col": 0,
+        "parse_dates": true,
+        "header": 0,
+        "dtype": "float"
+    },
+    "Sweden2.csv": {
+        "index_col": 0,
+        "parse_dates": true,
+        "header": 0,
+        "dtype": "float"
+    },
+    "USA.csv": {
+        "index_col": 0,
+        "parse_dates": true,
+        "header": 0,
+        "dtype": "float"
+    }
+}
